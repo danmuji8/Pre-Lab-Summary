@@ -59,6 +59,8 @@
     - ![image](https://user-images.githubusercontent.com/86272090/174980728-ee1f5a98-5b03-491a-aec8-cf6e54c6294b.png)
     - EKS Connection 설정
     - ![image](https://user-images.githubusercontent.com/86272090/174970155-9eb2e488-7f27-4d55-a8e8-8779528a4071.png)
+    - EKS 배포된 서비스 확인
+    - ![image](https://user-images.githubusercontent.com/86272090/174981588-e33a577d-71bf-4f2c-afe1-16d2d4e4789f.png)
 
 
 
