@@ -34,8 +34,10 @@
   - MSA 아키텍처 구성
   ![image](https://user-images.githubusercontent.com/86272090/174928889-b6e9d184-3632-436d-8af2-2b1e7c15f6c2.png)
   - Cloud Platform 프로비저닝
-    - EKS
+    - EKS 생성
     ![image](https://user-images.githubusercontent.com/86272090/174931479-31ad8210-346e-46ee-ae97-6f4055a5680e.png)
+    ![image](https://user-images.githubusercontent.com/86272090/174934173-32ddb4d1-27be-4ca0-a84b-e52b7f1fce60.png)
+
 
   - DevOps Toolchain 구축 
   - 분산 메시징 플랫폼 구성 
