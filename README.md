@@ -48,6 +48,11 @@
     - 프로젝트 별 ECR 생성
     - ![image](https://user-images.githubusercontent.com/86272090/174936592-b5d44c63-03a8-4a81-91da-7aeec5396afe.png)
 
+    - CodeBuild 생성
+    - ![image](https://user-images.githubusercontent.com/86272090/174970155-9eb2e488-7f27-4d55-a8e8-8779528a4071.png)
+
+
+
   - 분산 메시징 플랫폼 구성 
   - SLA 운영 - 오토 스케일아웃(Auto Scale-out) 
   - SLA 운영 - 무정지 배포(Zero downtime Deploy) 
