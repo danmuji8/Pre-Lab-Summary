@@ -53,6 +53,10 @@
     - ![image](https://user-images.githubusercontent.com/86272090/174979460-9d766f1c-f9dc-43c5-a59a-d0bcfc64d1fd.png)
     - ![image](https://user-images.githubusercontent.com/86272090/174979584-1538436e-3f73-458e-8589-d35d9a894bfc.png)
     - ![image](https://user-images.githubusercontent.com/86272090/174979731-069ef006-5b8a-484c-b7c4-b719e11b8114.png)
+    - buildspec-kubectl.yml 상세
+    - ![image](https://user-images.githubusercontent.com/86272090/174980351-c5ab4f39-7661-41fb-94a9-357e1aa87c20.png)
+    - ![image](https://user-images.githubusercontent.com/86272090/174980633-cb43ed83-e887-4556-a834-b48ef0371693.png)
+    - ![image](https://user-images.githubusercontent.com/86272090/174980728-ee1f5a98-5b03-491a-aec8-cf6e54c6294b.png)
 
     - ![image](https://user-images.githubusercontent.com/86272090/174970155-9eb2e488-7f27-4d55-a8e8-8779528a4071.png)
 
