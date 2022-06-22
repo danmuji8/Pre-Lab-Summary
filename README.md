@@ -44,9 +44,10 @@
     - Metric Server 설치
     - ![image](https://user-images.githubusercontent.com/86272090/174935276-5f89fd5d-8384-4312-b4c9-512fd786546e.png)
 
-
-
   - DevOps Toolchain 구축 
+    - 프로젝트 별 ECR 생성
+    - ![image](https://user-images.githubusercontent.com/86272090/174936592-b5d44c63-03a8-4a81-91da-7aeec5396afe.png)
+
   - 분산 메시징 플랫폼 구성 
   - SLA 운영 - 오토 스케일아웃(Auto Scale-out) 
   - SLA 운영 - 무정지 배포(Zero downtime Deploy) 
