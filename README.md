@@ -32,9 +32,7 @@
   - 이벤트스토밍 모델 이해
   - 폴리글랏 프로그래밍 코드(동기호출, 비동기 호출) 이해 
   - MSA 아키텍처 구성
-
-
-
+  ![image](https://user-images.githubusercontent.com/86272090/174928889-b6e9d184-3632-436d-8af2-2b1e7c15f6c2.png)
   - Cloud Platform 프로비저닝 
   - DevOps Toolchain 구축 
   - 분산 메시징 플랫폼 구성 
