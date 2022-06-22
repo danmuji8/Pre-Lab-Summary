@@ -1,6 +1,4 @@
-![image](https://user-images.githubusercontent.com/487999/79708354-29074a80-82fa-11ea-80df-0db3962fb453.png)
-
-# Site Reliability Engineering(SRE) PreLab 예제 - 음식배달
+# Cloud Platfrom Eng. 영역 Pre-Lab PaaS_AWS 과정
 
 - **개요**
   - 본 예제는 GitOps기반 SRE과정을 위한 클라우드 플랫폼 환경구축과 마이크로서비스 전 라이프사이클(분석/설계, 구현, DevOps 툴체인(파이프라인)을 통한 배포, 운영/모니터링)을 커버하도록 구성된 예제입니다. 
@@ -34,6 +32,9 @@
   - 이벤트스토밍 모델 이해
   - 폴리글랏 프로그래밍 코드(동기호출, 비동기 호출) 이해 
   - MSA 아키텍처 구성
+
+
+
   - Cloud Platform 프로비저닝 
   - DevOps Toolchain 구축 
   - 분산 메시징 플랫폼 구성 
