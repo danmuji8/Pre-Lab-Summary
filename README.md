@@ -37,6 +37,8 @@
     - EKS 생성
     ![image](https://user-images.githubusercontent.com/86272090/174931479-31ad8210-346e-46ee-ae97-6f4055a5680e.png)
     ![image](https://user-images.githubusercontent.com/86272090/174934173-32ddb4d1-27be-4ca0-a84b-e52b7f1fce60.png)
+    - ECR 생성
+    ![image](https://user-images.githubusercontent.com/86272090/174934535-462fb32b-a6c8-4a36-a87e-9917d4d6eff3.png)
 
 
   - DevOps Toolchain 구축 
