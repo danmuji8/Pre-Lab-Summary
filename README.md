@@ -41,6 +41,9 @@
     - ![image](https://user-images.githubusercontent.com/86272090/174934535-462fb32b-a6c8-4a36-a87e-9917d4d6eff3.png)
     - Docker Login to ECR
     - ![image](https://user-images.githubusercontent.com/86272090/174935084-f3d0b4a3-62e0-49f1-bcac-0b0b9211ac43.png)
+    - Metric Server 설치
+    - ![image](https://user-images.githubusercontent.com/86272090/174935276-5f89fd5d-8384-4312-b4c9-512fd786546e.png)
+
 
 
   - DevOps Toolchain 구축 
