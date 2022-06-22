@@ -49,6 +49,11 @@
     - ![image](https://user-images.githubusercontent.com/86272090/174936592-b5d44c63-03a8-4a81-91da-7aeec5396afe.png)
     - 프로젝트 별 CodeBuild 생성
     - ![image](https://user-images.githubusercontent.com/86272090/174979131-6be71a3d-93ba-461b-9760-2ef7703f0420.png)
+    - CodeBuild 상세
+    - ![image](https://user-images.githubusercontent.com/86272090/174979460-9d766f1c-f9dc-43c5-a59a-d0bcfc64d1fd.png)
+    - ![image](https://user-images.githubusercontent.com/86272090/174979584-1538436e-3f73-458e-8589-d35d9a894bfc.png)
+    - ![image](https://user-images.githubusercontent.com/86272090/174979731-069ef006-5b8a-484c-b7c4-b719e11b8114.png)
+
     - ![image](https://user-images.githubusercontent.com/86272090/174970155-9eb2e488-7f27-4d55-a8e8-8779528a4071.png)
 
 
