@@ -75,6 +75,10 @@
 
 
   - SLA 운영 - 무정지 배포(Zero downtime Deploy) 
+  - ![image](https://user-images.githubusercontent.com/86272090/175195339-7b742548-bebf-430f-b39d-a4acfa6490fe.png)
+
+
+
   - Service Mesh 인프라 구축
   - Service Mesh 기반 마이크로서비스 Resilience 적용
   - 마이크로서비스 통합 모니터링
