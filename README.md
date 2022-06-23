@@ -93,9 +93,18 @@
 
 
 
-
-
   - Service Mesh 기반 마이크로서비스 Resilience 적용
+    - ![image](https://user-images.githubusercontent.com/86272090/175215980-a605a4eb-c5c1-4908-9c8e-206cc8a429e3.png)
+    - ![image](https://user-images.githubusercontent.com/86272090/175216137-17b6a206-3b01-4660-a20e-1d5d1dea69b4.png)
+
+  
+  
   - 마이크로서비스 통합 모니터링
+    - Prometheus 설치
+    - ![image](https://user-images.githubusercontent.com/86272090/175215723-3406eadb-f396-443b-b260-85054cbadaa1.png)
+    - ![image](https://user-images.githubusercontent.com/86272090/175216546-1fe35f86-9e22-4660-ac09-3e253eec9b18.png)
+
+
+
   - 마이크로서비스 통합 로깅
   - 분산 메시징 플랫폼 모니터링
