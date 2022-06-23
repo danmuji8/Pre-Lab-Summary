@@ -81,6 +81,20 @@
 
 
   - Service Mesh 인프라 구축
+    - Istio 설치
+    - ![image](https://user-images.githubusercontent.com/86272090/175209954-a96e0eb7-ca3f-4fac-beec-b5d154d2d8aa.png)
+    - ![image](https://user-images.githubusercontent.com/86272090/175210008-ab1591f1-435d-429e-9581-4175c03d4ded.png)
+    - Istio 모니터링 툴(Telemetry Applications) 설치
+    - ![image](https://user-images.githubusercontent.com/86272090/175210122-107d87d0-0e7e-4a5b-b0a2-2445232cca98.png)
+    - 모니터링 시스템(kiali) 접속
+    - ![image](https://user-images.githubusercontent.com/86272090/175210469-e4e29385-5f95-421e-9538-d31ba6d97ddf.png)
+    - 분산추적 시스템(tracing) 접속
+    - ![image](https://user-images.githubusercontent.com/86272090/175210784-b83f33b0-8a7d-44a9-88c6-b83407c7e33d.png)
+
+
+
+
+
   - Service Mesh 기반 마이크로서비스 Resilience 적용
   - 마이크로서비스 통합 모니터링
   - 마이크로서비스 통합 로깅
