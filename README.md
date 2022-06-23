@@ -100,9 +100,10 @@
   
   
   - 마이크로서비스 통합 모니터링
-    - Prometheus 설치
+    - Prometheus / Grafana Monitoring Stack 설치
     - ![image](https://user-images.githubusercontent.com/86272090/175215723-3406eadb-f396-443b-b260-85054cbadaa1.png)
-    - ![image](https://user-images.githubusercontent.com/86272090/175216546-1fe35f86-9e22-4660-ac09-3e253eec9b18.png)
+    - ![image](https://user-images.githubusercontent.com/86272090/175219815-3f2bbf0a-d2e3-4b13-8a68-30265a0266a4.png)
+    - ![image](https://user-images.githubusercontent.com/86272090/175220360-006f16d3-8cee-4737-8e1b-8acd27ce94cf.png)
 
 
 
