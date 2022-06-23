@@ -52,6 +52,9 @@
     - ![image](https://user-images.githubusercontent.com/86272090/175189102-49d436f9-18f8-4556-a104-526bcebca426.png)
     - 주문취소 테스트
     - ![image](https://user-images.githubusercontent.com/86272090/175189186-c8261a77-76df-438b-9ed2-64162108aa16.png)
+    - Kafka 모니터링 결과
+    - ![image](https://user-images.githubusercontent.com/86272090/175189317-102510ff-830a-498e-a48d-587e7e9d9b34.png)
+
 
 
 
