@@ -7,9 +7,9 @@
  
 - **진행내역** 
   - MSA 아키텍처 구성
-  ![image](https://user-images.githubusercontent.com/86272090/174928889-b6e9d184-3632-436d-8af2-2b1e7c15f6c2.png)
-  
-  
+    - ![image](https://user-images.githubusercontent.com/86272090/175190661-bf13f4db-46d2-4b7f-9e04-b2dd3b8d3347.png)
+
+
   - Cloud Platform 프로비저닝
     - EKS 생성
       ![image](https://user-images.githubusercontent.com/86272090/174931479-31ad8210-346e-46ee-ae97-6f4055a5680e.png)
