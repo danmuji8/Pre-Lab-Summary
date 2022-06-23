@@ -46,6 +46,13 @@
     - ![image](https://user-images.githubusercontent.com/86272090/175186158-6ace7af4-2c40-4158-b776-7da882f318a1.png)
     - ![image](https://user-images.githubusercontent.com/86272090/175186224-2999e010-6589-4b00-b3c6-528e5fddd48c.png)
     - ![image](https://user-images.githubusercontent.com/86272090/175186261-6bdb8a90-2a5b-44e9-b1bf-ec1c8a102ca9.png)
+    - 상품등록 테스트
+    - ![image](https://user-images.githubusercontent.com/86272090/175189037-1b6eeacf-0d93-4437-99f1-53e3979f51b2.png)
+    - 주문생성 테스트
+    - ![image](https://user-images.githubusercontent.com/86272090/175189102-49d436f9-18f8-4556-a104-526bcebca426.png)
+    - 주문취소 테스트
+    - ![image](https://user-images.githubusercontent.com/86272090/175189186-c8261a77-76df-438b-9ed2-64162108aa16.png)
+
 
 
   - SLA 운영 - 오토 스케일아웃(Auto Scale-out) 
