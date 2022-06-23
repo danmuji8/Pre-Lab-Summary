@@ -116,7 +116,9 @@
     - EFK(Elasticsearch, Fluentd, Kibana) 스텍을 클러스터에 설치하여 마이크로서비스 로그를 중앙에서 통합 모니터링한다.
     - 로그 수집기를 Fluentd 대신 동일 회사(Treasure Data)가 제작한 High Performance의 경량화 버전인 Fluent Bit를 적용한다.
     - 수집 데이터 저장소인 Elasticsearch를 기반으로 Kibana에서 시각화하여 통합 로깅한다.
- 
+    - Elasticsearch, Fluentd 설치
+    - ![image](https://user-images.githubusercontent.com/86272090/175227401-f72118cc-adfb-4f26-8c49-a304e4a533ff.png)
+
  
  
   - 분산 메시징 플랫폼 모니터링
