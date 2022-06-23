@@ -4,33 +4,8 @@
   - 본 예제는 GitOps기반 SRE과정을 위한 클라우드 플랫폼 환경구축과 마이크로서비스 전 라이프사이클(분석/설계, 구현, DevOps 툴체인(파이프라인)을 통한 배포, 운영/모니터링)을 커버하도록 구성된 예제입니다. 
   - 분석/설계/구현을 포함한 클라우드 플랫폼기반 운영(컨테이너 오케스트레이션, 모니터링, 로깅, etc) 중심으로 예제 프로젝트는 전개됩니다.
   - PreLab 기간동안 주어진 마이크로서비스 리소스를 사용하거나, 새로운 도메인 모델을 선정 후 설계/구현/배포/운영/모니터링을 적용해도 됩니다.
-
-- **PreLab 진행일정**
-  - 분석/설계 : (1일차) 
-    - 주제 도메인에 대한 분석/설계
-    - 분석/설계 모델에 대한 마이크로서비스 구현
-    - MSA 아키텍처 구성 및 Cloud Platform 프로비저닝
-    - 산출물 : 기능 목록서, 이벤트스토밍 모델, 헥사고날 아키텍처, MSA 아키텍처 구성도 
-  
-  - 배포/운영/모니터링 구현: (2~3일차) 
-    - DevOps Toolchain 구축
-    - 마이크로서비스 오케스트레이션 (오토 스케일아웃, 무정지 배포, EFS 스토리지 구성)
-    - 서비스 메쉬 구성 및 마이크로서비스에 SideCar Injection
-    - 통합 모니터링, 로깅, 메시징 플랫폼 모니터링 적용
-    - 산출물 : 파이프라인 구성도, 수행 증적(Microservice 오케스트레이션, 서비스 메시, 모니터링/로깅 구성도)  
- 
-  - 산출물 리뷰 : (4일차)
-    - 마이크로서비스 클라우드 운영환경에 대해 작성된 문서를 통한 개별 리뷰
-    - 마지막날 오전(10시)부터 준비된 참가자가 강사, 또는 보조강사와 1:1로 검토 진행
-   
-  - Phase별 산출물
-    - 단계별 산출물은 해당 README.md 화일을 복사해 사용하거나 프리 포멧으로 제출
-    - 제출 시, 반드시 소속과 이름을 기재
  
 - **체크포인트** 
-  - Domain 주제영역 및 시나리오 이해
-  - 이벤트스토밍 모델 이해
-  - 폴리글랏 프로그래밍 코드(동기호출, 비동기 호출) 이해 
   - MSA 아키텍처 구성
   ![image](https://user-images.githubusercontent.com/86272090/174928889-b6e9d184-3632-436d-8af2-2b1e7c15f6c2.png)
   - Cloud Platform 프로비저닝
@@ -43,6 +18,13 @@
     - ![image](https://user-images.githubusercontent.com/86272090/174935084-f3d0b4a3-62e0-49f1-bcac-0b0b9211ac43.png)
     - Metric Server 설치
     - ![image](https://user-images.githubusercontent.com/86272090/174935276-5f89fd5d-8384-4312-b4c9-512fd786546e.png)
+    - Kafka 설치
+    - ![image](https://user-images.githubusercontent.com/86272090/175186158-6ace7af4-2c40-4158-b776-7da882f318a1.png)
+    - ![image](https://user-images.githubusercontent.com/86272090/175186224-2999e010-6589-4b00-b3c6-528e5fddd48c.png)
+    - ![image](https://user-images.githubusercontent.com/86272090/175186261-6bdb8a90-2a5b-44e9-b1bf-ec1c8a102ca9.png)
+
+
+
 
   - DevOps Toolchain 구축 
     - 프로젝트 별 ECR 생성
