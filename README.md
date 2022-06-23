@@ -7,7 +7,8 @@
  
 - **진행내역** 
   - MSA 아키텍처 구성
-    - ![image](https://user-images.githubusercontent.com/86272090/175190661-bf13f4db-46d2-4b7f-9e04-b2dd3b8d3347.png)
+    - ![image](https://user-images.githubusercontent.com/86272090/175193198-74c25bd5-012f-4c05-a927-0f8fa7ea79c6.png)
+
 
 
   - Cloud Platform 프로비저닝
@@ -20,6 +21,7 @@
     - ![image](https://user-images.githubusercontent.com/86272090/174935084-f3d0b4a3-62e0-49f1-bcac-0b0b9211ac43.png)
     - Metric Server 설치
     - ![image](https://user-images.githubusercontent.com/86272090/174935276-5f89fd5d-8384-4312-b4c9-512fd786546e.png)
+
 
 
   - DevOps Toolchain 구축 
@@ -41,6 +43,7 @@
     - ![image](https://user-images.githubusercontent.com/86272090/175186367-c9d5df98-1e0f-4112-ad41-bd4b71061598.png)
 
 
+
   - 분산 메시징 플랫폼 구성 
     - Kafka 설치
     - ![image](https://user-images.githubusercontent.com/86272090/175186158-6ace7af4-2c40-4158-b776-7da882f318a1.png)
@@ -57,8 +60,20 @@
 
 
 
-
   - SLA 운영 - 오토 스케일아웃(Auto Scale-out) 
+    - Load Generator 생성
+    - ![image](https://user-images.githubusercontent.com/86272090/175191425-8ebcd474-161f-4410-82b8-20d01efc49a7.png)
+    - Load Generator 정상작동 확인
+    - ![image](https://user-images.githubusercontent.com/86272090/175191586-79c8ebec-d66b-4d0f-9800-7261a83375c9.png)
+    - HPA : 설정은 CPU 사용량이 15프로를 넘어서면 replica 를 10개까지 늘려준다
+    - ![image](https://user-images.githubusercontent.com/86272090/175192600-8d8ae8f3-547e-46ce-bc5f-a803ddf80a6f.png)
+    - Load Generator 발생
+    - ![image](https://user-images.githubusercontent.com/86272090/175192676-00ebb4f8-239f-4d71-877b-28f8e03d152c.png)
+    - HPA 확인
+    - ![image](https://user-images.githubusercontent.com/86272090/175192720-529734e6-c587-4c25-905f-63d9294fd262.png)
+
+
+
   - SLA 운영 - 무정지 배포(Zero downtime Deploy) 
   - Service Mesh 인프라 구축
   - Service Mesh 기반 마이크로서비스 Resilience 적용
