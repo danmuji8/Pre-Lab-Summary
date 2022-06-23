@@ -75,6 +75,7 @@
 
 
   - SLA 운영 - 무정지 배포(Zero downtime Deploy) 
+  - Readiness Probe 를 설정으로 새로 올려진 서비스의 Health Check 후 서비스 유입을 진행하여 무정지 배포 확인 
   - ![image](https://user-images.githubusercontent.com/86272090/175195339-7b742548-bebf-430f-b39d-a4acfa6490fe.png)
 
 
