@@ -96,6 +96,9 @@
   - Service Mesh 기반 마이크로서비스 Resilience 적용
     - ![image](https://user-images.githubusercontent.com/86272090/175215980-a605a4eb-c5c1-4908-9c8e-206cc8a429e3.png)
     - ![image](https://user-images.githubusercontent.com/86272090/175216137-17b6a206-3b01-4660-a20e-1d5d1dea69b4.png)
+    - 소스를 수정하여 재 배포
+    - ![image](https://user-images.githubusercontent.com/86272090/175224982-9097db75-afb0-487a-b60a-eeebf358223b.png)
+
 
   
   
