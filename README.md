@@ -100,8 +100,6 @@
     - ![image](https://user-images.githubusercontent.com/86272090/175224982-9097db75-afb0-487a-b60a-eeebf358223b.png)
     - ![image](https://user-images.githubusercontent.com/86272090/175225283-111c3568-ea6b-443f-a2a8-f0d211a7f8b6.png)
 
-
-
   
   
   - 마이크로서비스 통합 모니터링
@@ -110,8 +108,8 @@
     - ![image](https://user-images.githubusercontent.com/86272090/175215723-3406eadb-f396-443b-b260-85054cbadaa1.png)
     - ![image](https://user-images.githubusercontent.com/86272090/175219815-3f2bbf0a-d2e3-4b13-8a68-30265a0266a4.png)
     - ![image](https://user-images.githubusercontent.com/86272090/175220360-006f16d3-8cee-4737-8e1b-8acd27ce94cf.png)
-
-
+ 
+ 
 
   - 마이크로서비스 통합 로깅
     - EFK(Elasticsearch, Fluentd, Kibana) 스텍을 클러스터에 설치하여 마이크로서비스 로그를 중앙에서 통합 모니터링한다.
