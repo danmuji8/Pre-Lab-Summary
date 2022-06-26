@@ -8,6 +8,8 @@
 - **진행내역** 
   - MSA 아키텍처 구성
     - ![image](https://user-images.githubusercontent.com/86272090/175193198-74c25bd5-012f-4c05-a927-0f8fa7ea79c6.png)
+    - ![image](https://user-images.githubusercontent.com/86272090/175823006-8fb6699e-7e8b-4553-9ad4-22cf50539720.png)
+
 
 
 
