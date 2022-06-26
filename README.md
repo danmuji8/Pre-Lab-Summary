@@ -120,7 +120,12 @@
     - 수집 데이터 저장소인 Elasticsearch를 기반으로 Kibana에서 시각화하여 통합 로깅한다.
     - Elasticsearch, Fluentd 설치
     - ![image](https://user-images.githubusercontent.com/86272090/175227401-f72118cc-adfb-4f26-8c49-a304e4a533ff.png)
-
+    - 이슈노트
+    - EFK 생성 시 Pod 생성 한계 오류 발생으로 모든 Pod 가 Terminating 현상 발생
+    - 일부 서비스 Pod 정리하여 안정화 후 Worker Node 2기 증설 진행 및 서비스 재배포 진행
+    - ![image](https://user-images.githubusercontent.com/86272090/175824389-93745b5b-9870-45e2-9e5d-5e90a2fbfb5f.png)
+    - ![image](https://user-images.githubusercontent.com/86272090/175824411-628cf5dd-4809-49f0-b020-21f6a48066aa.png)
+ 
  
  
   - 분산 메시징 플랫폼 모니터링
