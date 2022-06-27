@@ -153,3 +153,13 @@
  
  
   - 분산 메시징 플랫폼 모니터링
+    - Kafka Dashboard 설치
+    - ![image](https://user-images.githubusercontent.com/86272090/175859234-da98712c-2682-407f-92ef-526f8ab4e369.png)
+    - 설치확인
+    - ![image](https://user-images.githubusercontent.com/86272090/175859363-8801cfda-e799-46ac-90b2-140aafcd5753.png)
+    - ![image](https://user-images.githubusercontent.com/86272090/175859771-20ccf014-5bfb-4bfb-a38d-94fc42c3730a.png)
+    - ![image](https://user-images.githubusercontent.com/86272090/175859894-2be060dd-107e-4e69-b515-888177f9f2c1.png)
+
+
+
+
