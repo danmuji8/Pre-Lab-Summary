@@ -40,6 +40,10 @@
     - Maven 으로 Build 시 라이브러리를 캐시화하여 Build 속도 향상 
     - ![image](https://user-images.githubusercontent.com/86272090/174979731-069ef006-5b8a-484c-b7c4-b719e11b8114.png)
     - buildspec-kubectl.yml 상세
+    - 1. install : install kubectl
+    - 2. pre_build : Logging in to Amazon ECR
+    - 3. build : Building the Docker image
+    - 4. post_build : Pushing the Docker image, connect kubectl, kubectl apply(배포)
     - ![image](https://user-images.githubusercontent.com/86272090/174980351-c5ab4f39-7661-41fb-94a9-357e1aa87c20.png)
     - ![image](https://user-images.githubusercontent.com/86272090/174980633-cb43ed83-e887-4556-a834-b48ef0371693.png)
     - ![image](https://user-images.githubusercontent.com/86272090/174980728-ee1f5a98-5b03-491a-aec8-cf6e54c6294b.png)
