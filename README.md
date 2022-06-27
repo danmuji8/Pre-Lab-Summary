@@ -125,6 +125,13 @@
     - 일부 서비스 Pod 정리하여 안정화 후 Worker Node 2기 증설 진행 및 서비스 재배포 진행
     - ![image](https://user-images.githubusercontent.com/86272090/175824389-93745b5b-9870-45e2-9e5d-5e90a2fbfb5f.png)
     - ![image](https://user-images.githubusercontent.com/86272090/175824411-628cf5dd-4809-49f0-b020-21f6a48066aa.png)
+    - 서비스 정상화 후 EFK 생성 시 Pod Pendig 오류 지속 발생하여 Worker Node 2기 추가 증설 진행하여 정상 생성
+    - ![image](https://user-images.githubusercontent.com/86272090/175845311-61c1b4b2-74cf-442a-bd41-9a513f8d4b23.png)
+    - ![image](https://user-images.githubusercontent.com/86272090/175845189-7f9ac3c9-76f5-4865-bd2f-0bbaede24cd4.png)
+    - ![image](https://user-images.githubusercontent.com/86272090/175845231-2d313cf5-b0c4-4d61-a791-e7759d8c7475.png)
+    - ![image](https://user-images.githubusercontent.com/86272090/175845330-b15c7a3c-e312-4456-bbe1-c62a8a6ee5b4.png)
+
+
  
  
  
