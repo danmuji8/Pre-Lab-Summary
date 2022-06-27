@@ -36,8 +36,8 @@
     - CodeBuild 상세
     - Webhook 설정을 통하여 소스 변경 Trigger 로 자동 Build/배포 수행
     - ![image](https://user-images.githubusercontent.com/86272090/174979460-9d766f1c-f9dc-43c5-a59a-d0bcfc64d1fd.png)
-    - Maven 으로 Build 시 라이브러리를 캐시화하여 Build 속도 
     - ![image](https://user-images.githubusercontent.com/86272090/174979584-1538436e-3f73-458e-8589-d35d9a894bfc.png)
+    - Maven 으로 Build 시 라이브러리를 캐시화하여 Build 속도 향상 
     - ![image](https://user-images.githubusercontent.com/86272090/174979731-069ef006-5b8a-484c-b7c4-b719e11b8114.png)
     - buildspec-kubectl.yml 상세
     - ![image](https://user-images.githubusercontent.com/86272090/174980351-c5ab4f39-7661-41fb-94a9-357e1aa87c20.png)
