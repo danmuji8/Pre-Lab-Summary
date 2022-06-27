@@ -144,15 +144,11 @@
     - ![image](https://user-images.githubusercontent.com/86272090/175848530-9e035658-ae78-4bc0-b98e-4f1ce91ece0c.png)
     - kibana LB 생성
     - ![image](https://user-images.githubusercontent.com/86272090/175849522-a042d252-8dce-448b-b8c9-b18e3ec0791a.png)
-
-
-
-
-
-
-
-
-
+    - Index 패턴 생성
+    - ![image](https://user-images.githubusercontent.com/86272090/175849871-3c50b797-e99d-4a2e-b497-2310f1fa3f5c.png)
+    - 로그 조회
+    - ![image](https://user-images.githubusercontent.com/86272090/175850122-9e20b52f-0d6d-4153-99a2-b6405d590672.png)
+    - ![image](https://user-images.githubusercontent.com/86272090/175850396-fd792db5-b86d-4834-8887-673e4d5b558b.png)
  
  
  
