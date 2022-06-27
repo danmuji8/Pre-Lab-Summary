@@ -140,6 +140,8 @@
     - ![image](https://user-images.githubusercontent.com/86272090/175848105-5515e4f3-0252-4bab-9b9c-cfba50af20cc.png)
     - 설치확인
     - ![image](https://user-images.githubusercontent.com/86272090/175848308-8d66b968-3edc-4815-9a93-ac2598ad1ac3.png)
+    - ![image](https://user-images.githubusercontent.com/86272090/175848419-db4d2234-b05c-461c-ab31-6fd6ef5ccc73.png)
+
 
 
 
