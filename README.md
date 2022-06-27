@@ -132,6 +132,17 @@
     - ![image](https://user-images.githubusercontent.com/86272090/175845330-b15c7a3c-e312-4456-bbe1-c62a8a6ee5b4.png)
     - 설치확인
     - ![image](https://user-images.githubusercontent.com/86272090/175845806-934f6f4f-d899-45f3-8656-088897274a4b.png)
+    - Fluent Bit 설치
+    - ![image](https://user-images.githubusercontent.com/86272090/175847907-1af6cdda-d610-4770-a699-6b87fe5dc213.png)
+    - ![image](https://user-images.githubusercontent.com/86272090/175847952-6b164cf3-0a9e-41d7-ba11-866fc2abf8e5.png)
+    - ![image](https://user-images.githubusercontent.com/86272090/175847880-67637df9-4983-49a9-a7c1-952891525a4b.png)
+    - 생성이 안되는 Worker Node 에서 Too many pods 발생되어 jaeger pod delete 하여 처리
+    - ![image](https://user-images.githubusercontent.com/86272090/175848105-5515e4f3-0252-4bab-9b9c-cfba50af20cc.png)
+    - 설치확인
+    - ![image](https://user-images.githubusercontent.com/86272090/175848308-8d66b968-3edc-4815-9a93-ac2598ad1ac3.png)
+
+
+
 
 
 
