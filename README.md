@@ -9,6 +9,8 @@
   - MSA 아키텍처 구성
     - ![image](https://user-images.githubusercontent.com/86272090/175823963-3f5fdf90-4192-47e0-8f70-00950435e303.png)
     - ![image](https://user-images.githubusercontent.com/86272090/175823006-8fb6699e-7e8b-4553-9ad4-22cf50539720.png)
+    - CI/CD 파이프라인
+    - ![image](https://user-images.githubusercontent.com/86272090/176066426-c8a70548-15a2-4c4e-a321-b3b2b36ebbe2.png)
 
 
 
